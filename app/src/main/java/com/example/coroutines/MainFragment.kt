@@ -46,10 +46,3 @@ class MainFragment : Fragment() {
         return view
     }
 }
-/*
-* ,
-                            bundleOf(
-                                    MainActivity.START_AMOUNT to startAmount//,
-                                    //MainActivity.MAX_AMOUNT to maxAmount
-                            )
-* */
